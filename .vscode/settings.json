@@ -1,0 +1,6 @@
+{
+  "dart.flutterHotReloadOnSave": "all",
+  "dart.flutterGenerateLocalizationsOnSave": "all",
+  "dart.hotReloadOnSave": "all",
+  "dart.flutterScreenshotPath": null
+}
